@@ -185,6 +185,14 @@ a{
     min-width: 250px;
     flex: 1;
 }
+.mega-menu .links2{
+    margin-top: 50px;
+}
+@media (max-width:767px){
+    .mega-menu .links2{
+        margin-top: 0px;
+    }
+}
 .mega-menu li{
     
     position: relative;
